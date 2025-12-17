@@ -1,4 +1,4 @@
-package fastandslowpointer;
+package com.dsa.fastandslowpointer;
 
 public class FindTheDuplicateNumber {
 	public int findDuplicate(int[] nums) {

@@ -1,4 +1,4 @@
-package fastandslowpointer;
+package com.dsa.fastandslowpointer;
 
 import com.dsa.ListNode;
 

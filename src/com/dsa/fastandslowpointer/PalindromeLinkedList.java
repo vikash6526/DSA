@@ -1,4 +1,4 @@
-package fastandslowpointer;
+package com.dsa.fastandslowpointer;
 
 import java.util.ArrayList;
 import java.util.List;
